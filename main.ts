@@ -62,10 +62,20 @@ for(let i = 0; i < employees.length; i++) {
 
 
 
+    // employees.forEach(employe => {
 
-
-
-
+    //     let totalsalary = calculateSalary(employe.hourlyRate,employe.hoursWorked)
+    
+    //     console.log(
+    //         `The employee ${employe.name} work for ${
+    //           employe.hoursWorked
+    //         } a month with a hourly rate of ${
+    //           employe.hourlyRate
+    //         } his total montly salary is ${totalsalary}`
+    //     )
+    // }
+    
+    // )
 
 
 
